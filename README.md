@@ -4,4 +4,4 @@
 https://huggingface.co/spaces/alexchenc10/aicomp_demo
 有问题可以提issue
 ## New!🎉
-当前项目的衍生文章OrthKD: Extracting Generalized Clinical Knowledge from Heterogeneous Teachers for Lightweight Deployment已经被IJCAI2026正式接受，相应源码在https://github.com/ScottBlizzard/orthkd-dr-screening，欢迎讨论👏
+当前项目的衍生文章OrthKD: Extracting Generalized Clinical Knowledge from Heterogeneous Teachers for Lightweight Deployment已经被IJCAI2026正式接受，相应源码在https://github.com/ScottBlizzard/orthkd-dr-screening#，欢迎讨论👏
